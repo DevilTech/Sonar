@@ -30,6 +30,11 @@ public class MaxSonar {
     	 else {
     		 return false;
     	 }
+    	 /*Center of Auto Zone to Wall: 13ft 7 in, Extends from 10ft 6in to 16ft 8in
+    	  * If Entering Auto Zone Perpendicularly, we have 1/2 inch of clearance 
+    	  * Front of Crate to Back of Robot: 46.5 in
+    	  * Front of Arms to Back of Robot: 40 in
+    	  *Front of Chassis to back of Chassis: 31 in*/
      }
 }
 
